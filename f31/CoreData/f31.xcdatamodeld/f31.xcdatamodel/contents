@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="13533" systemVersion="17F77" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Awards" representedClassName="Awards" syncable="YES" codeGenerationType="class">
+        <attribute name="authorID" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="dataString" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="year" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+    </entity>
+    <entity name="NewsSnippets" representedClassName="NewsSnippets" syncable="YES" codeGenerationType="class">
+        <attribute name="authorID" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="dataString" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="year" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+    </entity>
+    <entity name="VolumeContentData" representedClassName="VolumeContentData" syncable="YES" codeGenerationType="class">
+        <attribute name="dataString" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="volumeID" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <fetchIndex name="byVolumeIDIndex">
+            <fetchIndexElement property="volumeID" type="Binary" order="ascending"/>
+        </fetchIndex>
+    </entity>
+    <entity name="Volumes" representedClassName="Volumes" syncable="YES" codeGenerationType="class">
+        <attribute name="authorID" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="dataString" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="year" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <fetchIndex name="byAuthorIDIndex">
+            <fetchIndexElement property="authorID" type="Binary" order="ascending"/>
+        </fetchIndex>
+        <fetchIndex name="byYearIndex">
+            <fetchIndexElement property="year" type="Binary" order="ascending"/>
+        </fetchIndex>
+    </entity>
+    <elements>
+        <element name="Awards" positionX="-63" positionY="-18" width="128" height="90"/>
+        <element name="NewsSnippets" positionX="-54" positionY="-9" width="128" height="90"/>
+        <element name="Volumes" positionX="-36" positionY="9" width="128" height="90"/>
+        <element name="VolumeContentData" positionX="-45" positionY="18" width="128" height="75"/>
+    </elements>
+</model>

@@ -1,0 +1,130 @@
+/* 
+  VolumesDummyRESTWebAPIResponse.strings
+  f31
+
+  Created by David on 03/02/2018.
+  Copyright © 2018 com.smartfoundation. All rights reserved.
+*/
+
+"byPreviousVolumeID_AuthorID_Year" = "{\"ID\":\"\",\n
+	\"Items\":[\n
+		{\"ID\":\"Volumes\",\n
+		\"Items\":[\n
+			{\"ID\":\"1\",\n
+			\"Items\":[],\n
+			\"Params\":[\n
+				{\"Key\":\"AuthorID\",\"Value\":\"1\"},\n
+				{\"Key\":\"Title\",\"Value\":\"dummytitle1\"},\n
+				{\"Key\":\"DatePublished\",\"Value\":\"18/01/2018 12:00:00 AM\"},\n
+				{\"Key\":\"CoverThumbnailImageFileName\",\"Value\":\"\"},\n
+				{\"Key\":\"CoverColor\",\"Value\":\"\"},\n
+				{\"Key\":\"NumberofPages\",\"Value\":\"2\"},\n
+				{\"Key\":\"NumberofLikes\",\"Value\":\"1\"},\n
+				{\"Key\":\"NumberofVolumeComments\",\"Value\":\"1\"},\n
+				{\"Key\":\"LatestVolumeCommentDatePosted\",\"Value\":\"25/01/2018 12:00:00 AM\"},\n
+				{\"Key\":\"LatestVolumeCommentPostedByName\",\"Value\":\"dummypostedby\"},\n
+				{\"Key\":\"LatestVolumeCommentText\",\"Value\":\"\"},\n
+				{\"Key\":\"ContentData\",\"Value\":\"\"}\n
+			]\n
+			},\n
+			{\"ID\":\"2\",\n
+			\"Items\":[],\n
+			\"Params\":[\n
+				{\"Key\":\"AuthorID\",\"Value\":\"1\"},\n
+				{\"Key\":\"Title\",\"Value\":\"dummytitle2\"},\n
+				{\"Key\":\"DatePublished\",\"Value\":\"18/01/2018 12:00:00 AM\"},\n
+				{\"Key\":\"CoverThumbnailImageFileName\",\"Value\":\"IMG240317_7.jpg\"},\n
+				{\"Key\":\"CoverColor\",\"Value\":\"\"},\n
+				{\"Key\":\"NumberofPages\",\"Value\":\"2\"},\n
+				{\"Key\":\"NumberofLikes\",\"Value\":\"1\"},\n
+				{\"Key\":\"NumberofVolumeComments\",\"Value\":\"1\"},\n
+				{\"Key\":\"LatestVolumeCommentDatePosted\",\"Value\":\"25/01/2018 12:00:00 AM\"},\n
+				{\"Key\":\"LatestVolumeCommentPostedByName\",\"Value\":\"dummypostedby\"},\n
+				{\"Key\":\"LatestVolumeCommentText\",\"Value\":\"dummytext dummytext dummytext dummytext dummytext dummytext dummytext dummytext dummytext dummytext dummytext dummytext dummytext dummytext dummytext dummytext dummytext dummytext dummytext dummytext dummytext dummytext dummytext dummytext dummytext dummytext dummytext dummytext dummytext dummytext\"},\n
+				{\"Key\":\"ContentData\",\"Value\":\"\"}\n
+			]\n
+			},\n
+			{\"ID\":\"3\",\n
+			\"Items\":[],\n
+			\"Params\":[\n
+				{\"Key\":\"AuthorID\",\"Value\":\"1\"},\n
+				{\"Key\":\"Title\",\"Value\":\"dummytitle3\"},\n
+				{\"Key\":\"DatePublished\",\"Value\":\"18/01/2018 12:00:00 AM\"},\n
+				{\"Key\":\"CoverThumbnailImageFileName\",\"Value\":\"\"},\n
+				{\"Key\":\"CoverColor\",\"Value\":\"\"},\n
+				{\"Key\":\"NumberofLikes\",\"Value\":\"1\"},\n
+				{\"Key\":\"NumberofPages\",\"Value\":\"2\"},\n
+				{\"Key\":\"NumberofVolumeComments\",\"Value\":\"1\"},\n
+				{\"Key\":\"LatestVolumeCommentDatePosted\",\"Value\":\"25/01/2018 12:00:00 AM\"},\n
+				{\"Key\":\"LatestVolumeCommentPostedByName\",\"Value\":\"dummypostedby\"},\n
+				{\"Key\":\"LatestVolumeCommentText\",\"Value\":\"\"},\n
+				{\"Key\":\"ContentData\",\"Value\":\"\"}\n
+			]\n
+			},\n
+			{\"ID\":\"4\",\n
+			\"Items\":[],\n
+			\"Params\":[\n
+				{\"Key\":\"AuthorID\",\"Value\":\"1\"},\n
+				{\"Key\":\"Title\",\"Value\":\"dummytitle4\"},\n
+				{\"Key\":\"DatePublished\",\"Value\":\"18/01/2018 12:00:00 AM\"},\n
+				{\"Key\":\"CoverThumbnailImageFileName\",\"Value\":\"IMG240317_7.jpg\"},\n
+				{\"Key\":\"CoverColor\",\"Value\":\"\"},\n
+				{\"Key\":\"NumberofLikes\",\"Value\":\"1\"},\n
+				{\"Key\":\"NumberofPages\",\"Value\":\"2\"},\n
+				{\"Key\":\"NumberofVolumeComments\",\"Value\":\"1\"},\n
+				{\"Key\":\"LatestVolumeCommentDatePosted\",\"Value\":\"25/01/2018 12:00:00 AM\"},\n
+				{\"Key\":\"LatestVolumeCommentPostedByName\",\"Value\":\"dummypostedby\"},\n
+				{\"Key\":\"LatestVolumeCommentText\",\"Value\":\"dummytext\"},\n
+				{\"Key\":\"ContentData\",\"Value\":\"\"}\n
+			]\n
+			},\n
+			{\"ID\":\"5\",\n
+			\"Items\":[],\n
+			\"Params\":[\n
+				{\"Key\":\"AuthorID\",\"Value\":\"5\"},\n
+				{\"Key\":\"Title\",\"Value\":\"dummytitle5\"},\n
+				{\"Key\":\"DatePublished\",\"Value\":\"18/01/2018 12:00:00 AM\"},\n
+				{\"Key\":\"CoverThumbnailImageFileName\",\"Value\":\"\"},\n
+				{\"Key\":\"CoverColor\",\"Value\":\"\"},\n
+				{\"Key\":\"NumberofLikes\",\"Value\":\"1\"},\n
+				{\"Key\":\"NumberofPages\",\"Value\":\"2\"},\n
+				{\"Key\":\"NumberofVolumeComments\",\"Value\":\"1\"},\n
+				{\"Key\":\"LatestVolumeCommentDatePosted\",\"Value\":\"25/01/2018 12:00:00 AM\"},\n
+				{\"Key\":\"LatestVolumeCommentPostedByName\",\"Value\":\"dummypostedby\"},\n
+				{\"Key\":\"LatestVolumeCommentText\",\"Value\":\"dummytext\"},\n
+				{\"Key\":\"ContentData\",\"Value\":\"\"}\n
+			]\n
+			},\n
+			{\"ID\":\"6\",\n
+			\"Items\":[],\n
+			\"Params\":[\n
+				{\"Key\":\"AuthorID\",\"Value\":\"1\"},\n
+				{\"Key\":\"Title\",\"Value\":\"dummytitle6\"},\n
+				{\"Key\":\"DatePublished\",\"Value\":\"18/01/2018 12:00:00 AM\"},\n
+				{\"Key\":\"CoverThumbnailImageFileName\",\"Value\":\"\"},\n
+				{\"Key\":\"CoverColor\",\"Value\":\"\"},\n
+				{\"Key\":\"NumberofLikes\",\"Value\":\"1\"},\n
+				{\"Key\":\"NumberofPages\",\"Value\":\"2\"},\n
+				{\"Key\":\"NumberofVolumeComments\",\"Value\":\"1\"},\n
+				{\"Key\":\"LatestVolumeCommentDatePosted\",\"Value\":\"25/01/2018 12:00:00 AM\"},\n
+				{\"Key\":\"LatestVolumeCommentPostedByName\",\"Value\":\"dummypostedby\"},\n
+				{\"Key\":\"LatestVolumeCommentText\",\"Value\":\"\"},\n
+				{\"Key\":\"ContentData\",\"Value\":\"\"}\n
+			]\n
+			}\n
+		],\n
+		\"Params\":[]\n
+		}\n
+	],\n
+	\"Params\":[]\n
+}";
+
+"getContentDataForVolume" = "{\"ID\":\"1\",\n
+	\"Items\":[],\n
+	\"Params\":[\n
+		{\"Key\":\"ContentData\",\"Value\":\"{\\\"ID\\\":\\\"\\\",\\\"Items\\\":[{\\\"ID\\\":\\\"Pages\\\",\\\"Items\\\":[{\\\"ID\\\":\\\"1\\\",\\\"Items\\\":[],\\\"Params\\\":[]},{\\\"ID\\\":\\\"2\\\",\\\"Items\\\":[],\\\"Params\\\":[]},{\\\"ID\\\":\\\"3\\\",\\\"Items\\\":[],\\\"Params\\\":[]},{\\\"ID\\\":\\\"4\\\",\\\"Items\\\":[],\\\"Params\\\":[]},{\\\"ID\\\":\\\"5\\\",\\\"Items\\\":[],\\\"Params\\\":[]}],\\\"Params\\\":[]},{\\\"ID\\\":\\\"Assets\\\",\\\"Items\\\":[{\\\"ID\\\":\\\"1\\\",\\\"Items\\\":[],\\\"Params\\\":[{\\\"Key\\\":\\\"AssetType\\\",\\\"Value\\\":\\\"1\\\"},{\\\"Key\\\":\\\"GroupKey\\\",\\\"Value\\\":\\\"page_1\\\"},{\\\"Key\\\":\\\"ImageFileName\\\",\\\"Value\\\":\\\"IMG240317_7.jpg\\\"}]},{\\\"ID\\\":\\\"2\\\",\\\"Items\\\":[],\\\"Params\\\":[{\\\"Key\\\":\\\"AssetType\\\",\\\"Value\\\":\\\"1\\\"},{\\\"Key\\\":\\\"GroupKey\\\",\\\"Value\\\":\\\"page_2\\\"},{\\\"Key\\\":\\\"ImageFileName\\\",\\\"Value\\\":\\\"IMG240317_7.jpg\\\"}]},{\\\"ID\\\":\\\"3\\\",\\\"Items\\\":[],\\\"Params\\\":[{\\\"Key\\\":\\\"AssetType\\\",\\\"Value\\\":\\\"1\\\"},{\\\"Key\\\":\\\"GroupKey\\\",\\\"Value\\\":\\\"page_3\\\"},{\\\"Key\\\":\\\"ImageFileName\\\",\\\"Value\\\":\\\"IMG240317_7.jpg\\\"}]},{\\\"ID\\\":\\\"4\\\",\\\"Items\\\":[],\\\"Params\\\":[{\\\"Key\\\":\\\"AssetType\\\",\\\"Value\\\":\\\"1\\\"},{\\\"Key\\\":\\\"GroupKey\\\",\\\"Value\\\":\\\"page_4\\\"},{\\\"Key\\\":\\\"ImageFileName\\\",\\\"Value\\\":\\\"IMG240317_7.jpg\\\"}]},{\\\"ID\\\":\\\"5\\\",\\\"Items\\\":[],\\\"Params\\\":[{\\\"Key\\\":\\\"AssetType\\\",\\\"Value\\\":\\\"1\\\"},{\\\"Key\\\":\\\"GroupKey\\\",\\\"Value\\\":\\\"page_5\\\"},{\\\"Key\\\":\\\"ImageFileName\\\",\\\"Value\\\":\\\"IMG240317_7.jpg\\\"}]}],\\\"Params\\\":[]}],\\\"Params\\\":[]}\"}\n
+	]\n
+}";
+
+		
+

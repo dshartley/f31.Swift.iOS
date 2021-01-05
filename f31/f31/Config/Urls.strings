@@ -1,0 +1,12 @@
+/* 
+  Urls.strings
+  f31
+
+  Created by David on 07/11/2018.
+  Copyright © 2018 com.smartfoundation. All rights reserved.
+*/
+
+"VolumeImagesUrlRoot" 			= "http://f31.sfserver.co.uk/Images/";
+"AwardImagesUrlRoot" 			= "http://f31.sfserver.co.uk/Images/";
+"NewsSnippetImagesUrlRoot" 		= "http://f31.sfserver.co.uk/Images/";
+

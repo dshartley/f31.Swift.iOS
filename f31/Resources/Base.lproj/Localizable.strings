@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  f31
+
+  Created by David on 28/05/2017.
+  Copyright © 2017 com.smartfoundation. All rights reserved.
+*/
+
+"SeeAllVolumeComments" = "See all %@ comments";
+"Like0" = "Like";
+"Like1" = "%@ like";
+"LikeN" = "%@ likes";
+"Page1" = "%@ page";
+"PageN" = "%@ pages";
+
+
+/* Sign In */
+
+"AlertTitleSignIn"						= "Private content";
+"AlertMessageSignIn" 					= "This content is for invited guests only.";
+"AlertMessageSignInPasswordPlaceholder" = "Enter access code";
+"AlertActionTitleEnter" 				= "Enter";
+"AlertActionTitleCancel" 				= "Cancel";
+
+/* Operation Failed */
+
+"AlertTitleOperationFailed" 			= "Operation didn't finish";
+"AlertMessageOperationFailed" 			= "Oops, what happened? The operation didn't finish. Please try again.";
+
+/* Not Connected */
+
+"AlertTitleNotConnected" 				= "Network unavailable";
+"AlertMessageNotConnected" 				= "Please check your internet connection and try again.";

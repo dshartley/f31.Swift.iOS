@@ -1,0 +1,39 @@
+/* 
+  NewsSnippetsDummyRESTWebAPIResponse.strings
+  f31
+
+  Created by David on 03/02/2018.
+  Copyright © 2018 com.smartfoundation. All rights reserved.
+*/
+
+"byAuthorIDYear" = "{\"ID\":\"\",\n
+	\"Items\":[\n
+		{\"ID\":\"NewsSnippets\",\n
+		\"Items\":[\n
+			{\"ID\":\"1\",\n
+			\"Items\":[],\n
+			\"Params\":[\n
+				{\"Key\":\"AuthorID\",\"Value\":\"1\"},\n
+				{\"Key\":\"Year\",\"Value\":\"2018\"},\n
+				{\"Key\":\"Text\",\"Value\":\"2\"},\n
+				{\"Key\":\"DatePosted\",\"Value\":\"25/01/2018 12:00:00 AM\"},\n
+				{\"Key\":\"ImageFileName\",\"Value\":\"IMG240317_7.jpg\"}\n
+			]\n
+			},\n
+			{\"ID\":\"2\",\n
+			\"Items\":[],\n
+			\"Params\":[\n
+				{\"Key\":\"AuthorID\",\"Value\":\"1\"},\n
+				{\"Key\":\"Year\",\"Value\":\"2018\"},\n
+				{\"Key\":\"Text\",\"Value\":\"2\"},\n
+				{\"Key\":\"DatePosted\",\"Value\":\"18/02/2018 12:00:00 AM\"},\n
+				{\"Key\":\"ImageFileName\",\"Value\":\"IMG240317_7.jpg\"}\n
+			]\n
+			}\n
+		],\n
+		\"Params\":[]\n
+		}\n
+	],\n
+	\"Params\":[]\n
+}";
+

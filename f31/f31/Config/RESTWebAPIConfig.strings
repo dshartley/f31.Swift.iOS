@@ -1,0 +1,23 @@
+/*
+ RESTWebAPIConfig.strings
+ f31
+ 
+ Created by David on 03/02/2018.
+ Copyright © 2018 com.smartfoundation. All rights reserved.
+ */
+
+// Volumes
+"VolumesSelectByPreviousVolumeIDAuthorIDYearUrl" = "http://f31.sfserver.co.uk/api/volumes/select/previousvolumeid/%@/authorid/%@/year/%@";
+"VolumesGetContentDataForVolumeUrl" = "http://f31.sfserver.co.uk/api/volumes/getcontentdata/volumeid/%@";
+"VolumesAddLikeUrl" = "http://f31.sfserver.co.uk/api/volumes/addlike/volumeid/%@";
+
+// VolumeComments
+"VolumeCommentsInsertUrl" = "http://f31.sfserver.co.uk/api/volumecomments/insert";
+"VolumeCommentsSelectByVolumeIDUrl" = "http://f31.sfserver.co.uk/api/volumecomments/select/volumeid/%@";
+
+// Awards
+"AwardsSelectByAuthorIDYearUrl" = "http://f31.sfserver.co.uk/api/awards/select/authorid/%@/year/%@";
+
+// NewsSnippets
+"NewsSnippetsSelectByAuthorIDYearUrl" = "http://f31.sfserver.co.uk/api/newssnippets/select/authorid/%@/year/%@";
+

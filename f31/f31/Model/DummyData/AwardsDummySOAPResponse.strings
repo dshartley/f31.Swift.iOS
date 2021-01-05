@@ -1,0 +1,24 @@
+/* 
+  AwardsDummySOAPResponse.strings
+  f31
+
+  Created by David on 08/12/2017.
+  Copyright © 2017 com.smartfoundation. All rights reserved.
+*/
+
+"text" = "{\n
+\"soap:Envelope\":\n
+{\"soap:Body\":\n
+	{\"LoadAwardsByCategoryYearResponse\":\n
+		{\"LoadAwardsByCategoryYearResult\":\n
+			{\"text\":\n
+				\"{\\\"ID\\\":0,\\\"Items\\\":[{\\\"ID\\\":1,\\\"Items\\\":[],\\\"Params\\\":[{\\\"Key\\\":\\\"Category\\\",\\\"Value\\\":\\\"4\\\"},{\\\"Key\\\":\\\"Year\\\",\\\"Value\\\":\\\"2017\\\"},{\\\"Key\\\":\\\"Text\\\",\\\"Value\\\":\\\"This is really really really rather quite really really really rather quite long text\\\"},{\\\"Key\\\":\\\"ImageFileName\\\",\\\"Value\\\":\\\"IMG240317_7_thumbnail.JPG\\\"},{\\\"Key\\\":\\\"CompetitionName\\\",\\\"Value\\\":\\\"This is really really really rather quite long competition name\\\"},{\\\"Key\\\":\\\"Quote\\\",\\\"Value\\\":\\\"This is really really really rather quite really really really rather quite long quote\\\"},{\\\"Key\\\":\\\"Url\\\",\\\"Value\\\":\\\"This is url\\\"}]},{\\\"ID\\\":2,\\\"Items\\\":[],\\\"Params\\\":[{\\\"Key\\\":\\\"Category\\\",\\\"Value\\\":\\\"4\\\"},{\\\"Key\\\":\\\"Year\\\",\\\"Value\\\":\\\"2017\\\"},{\\\"Key\\\":\\\"Text\\\",\\\"Value\\\":\\\"This is text\\\"},{\\\"Key\\\":\\\"ImageFileName\\\",\\\"Value\\\":\\\"IMG2.jpg\\\"},{\\\"Key\\\":\\\"CompetitionName\\\",\\\"Value\\\":\\\"This is competition name\\\"},{\\\"Key\\\":\\\"Quote\\\",\\\"Value\\\":\\\"This is quote\\\"},{\\\"Key\\\":\\\"Url\\\",\\\"Value\\\":\\\"This is url\\\"}]},{\\\"ID\\\":3,\\\"Items\\\":[],\\\"Params\\\":[{\\\"Key\\\":\\\"Category\\\",\\\"Value\\\":\\\"4\\\"},{\\\"Key\\\":\\\"Year\\\",\\\"Value\\\":\\\"2017\\\"},{\\\"Key\\\":\\\"Text\\\",\\\"Value\\\":\\\"This is text\\\"},{\\\"Key\\\":\\\"ImageFileName\\\",\\\"Value\\\":\\\"IMG1.jpg\\\"},{\\\"Key\\\":\\\"CompetitionName\\\",\\\"Value\\\":\\\"This is competition name\\\"},{\\\"Key\\\":\\\"Quote\\\",\\\"Value\\\":\\\"This is quote\\\"},{\\\"Key\\\":\\\"Url\\\",\\\"Value\\\":\\\"This is url\\\"}]}],\\\"Params\\\":[]}\"\n
+			},\n
+			\"xmlns\":\"http://tempuri.org/\"\n
+		},\n
+		\"xmlns:soap\":\"http://www.w3.org/2003/05/soap-envelope\",\n
+		\"xmlns:xsd\":\"http://www.w3.org/2001/XMLSchema\",\n
+		\"xmlns:xsi\":\"http://www.w3.org/2001/XMLSchema-instance\"\n
+	}\n
+}\n
+}";
